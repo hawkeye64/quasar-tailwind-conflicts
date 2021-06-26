@@ -10,7 +10,7 @@ How it looks on a Vue CLI app:
 ![100039908-357bf480-2e41-11eb-97b7-515d4fbdf39e](https://user-images.githubusercontent.com/27774317/123427835-671a9100-d5c5-11eb-87cb-2418bfa2e15d.png)
 
 
-I've made some changes in the `.postcssrc.js` file to remove most TailwindCSS conflicts (based on [this comment from the original issue](https://github.com/quasarframework/quasar/issues/6775#issuecomment-675255237))
+I've made some changes in the `.postcssrc.js` file to remove most TailwindCSS conflicts (based on [this comment from the original issue](https://github.com/quasarframework/quasar/issues/6775#issuecomment-675255237) but already tried [this one too](https://github.com/quasarframework/quasar/issues/6775#issuecomment-661891743) )
 ```js
 // https://github.com/michael-ciniawsky/postcss-load-config
 
